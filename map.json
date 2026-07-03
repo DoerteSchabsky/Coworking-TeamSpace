@@ -67,6 +67,64 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
+         "id":73,
+         "name":"Quality Check 1",
+         "objects":[
+                {
+                 "height":0,
+                 "id":14,
+                 "name":"ppsx",
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/unitedworkspace.sharepoint.com\/:p:\/s\/HeadofOperations\/IQDGodJtZ7J5Srf5dUoX52d7AbmOKALctmluBXk_YX3BUbc?e=1QlcEQ"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":622,
+                 "y":915.333333333333
+                }, 
+                {
+                 "height":0,
+                 "id":16,
+                 "name":"PDF",
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/unitedworkspace.sharepoint.com\/sites\/HeadofOperations\/Head%20of%20Operations%20Dokumente\/Forms\/AllItems.aspx?viewid=130155cb%2Db89e%2D4a98%2D9441%2Dca1076052497&id=%2Fsites%2FHeadofOperations%2FHead%20of%20Operations%20Dokumente%2FPr%C3%A4sentationen%2FThe%20Worst%20Day%20Ever%2FQuality%20Check%201%2Epdf&parent=%2Fsites%2FHeadofOperations%2FHead%20of%20Operations%20Dokumente%2FPr%C3%A4sentationen%2FThe%20Worst%20Day%20Ever"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":436,
+                 "y":913.333333333333
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":74,
+         "name":"Welcome",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1922,8 +1980,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":73,
- "nextobjectid":14,
+ "nextlayerid":75,
+ "nextobjectid":17,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.12.2",
